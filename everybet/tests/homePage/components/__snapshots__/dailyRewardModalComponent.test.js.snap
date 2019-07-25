@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DailyRewardModalComponent rendering Should render correctly the component (User.rewardTier > 1) 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  onRequestClose={[Function]}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00000040",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderRadius": 5,
+            "width": "70%",
+          },
+          Object {
+            "paddingBottom": 10,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "marginTop": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Récompense quotidienne
+      </Text>
+      <View
+        style={
+          Object {
+            "borderBottomColor": "#000000",
+            "borderBottomWidth": 1,
+            "marginVertical": 10,
+            "width": "50%",
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "marginHorizontal": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Vous vous êtes connecté à EveryBet 2 jours d'affilé !
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "marginHorizontal": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Vous avez gagné 0
+        <Image
+          source={
+            Object {
+              "testUri": "../../../assets/images/betcoin_icon.png",
+            }
+          }
+          style={
+            Object {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+         comme cadeau pour votre fidélité.
+      </Text>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 10,
+            "height": 45,
+            "justifyContent": "center",
+            "marginTop": 20,
+            "opacity": 1,
+            "shadowColor": "#000000",
+            "shadowOffset": Object {
+              "height": 6,
+              "width": 0,
+            },
+            "shadowOpacity": 0.33,
+            "shadowRadius": 7.5,
+            "width": 215,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#000000",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "textAlign": "center",
+            }
+          }
+        >
+          Merci !
+        </Text>
+      </View>
+    </View>
+  </View>
+</Modal>
+`;
+
+exports[`DailyRewardModalComponent rendering Should render correctly the component 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  onRequestClose={[Function]}
+  transparent={true}
+  visible={true}
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#00000040",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderRadius": 5,
+            "width": "70%",
+          },
+          Object {
+            "paddingBottom": 10,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "marginTop": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Récompense quotidienne
+      </Text>
+      <View
+        style={
+          Object {
+            "borderBottomColor": "#000000",
+            "borderBottomWidth": 1,
+            "marginVertical": 10,
+            "width": "50%",
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "marginHorizontal": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Vous vous êtes connecté à EveryBet undefined jours d'affilé !
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "marginHorizontal": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Vous avez gagné 0
+        <Image
+          source={
+            Object {
+              "testUri": "../../../assets/images/betcoin_icon.png",
+            }
+          }
+          style={
+            Object {
+              "height": 12,
+              "width": 12,
+            }
+          }
+        />
+         comme cadeau pour votre fidélité.
+      </Text>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 10,
+            "height": 45,
+            "justifyContent": "center",
+            "marginTop": 20,
+            "opacity": 1,
+            "shadowColor": "#000000",
+            "shadowOffset": Object {
+              "height": 6,
+              "width": 0,
+            },
+            "shadowOpacity": 0.33,
+            "shadowRadius": 7.5,
+            "width": 215,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#000000",
+              "fontFamily": "System",
+              "fontSize": 15,
+              "textAlign": "center",
+            }
+          }
+        >
+          Merci !
+        </Text>
+      </View>
+    </View>
+  </View>
+</Modal>
+`;

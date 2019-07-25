@@ -1,0 +1,834 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileComponent rendering Should render correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      },
+      Object {
+        "backgroundColor": "#F4F4FE",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/images/user_placeholder.png",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderRadius": 65,
+          "height": 125,
+          "width": 125,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "fontFamily": "System",
+          "fontSize": 32,
+          "fontWeight": "600",
+          "textAlign": "center",
+          "textAlignVertical": "center",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginBottom": 10,
+          "marginLeft": 45,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "fontFamily": "System",
+              "fontSize": 20,
+              "fontWeight": "600",
+              "marginTop": 25,
+              "textAlign": "center",
+              "textAlignVertical": "center",
+            }
+          }
+        >
+          BetCoins
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "height": 20,
+              "justifyContent": "flex-start",
+              "width": 90,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontFamily": "System",
+                "fontSize": 10,
+                "marginLeft": "auto",
+                "marginRight": 5,
+                "textAlign": "right",
+              }
+            }
+          />
+        </View>
+      </View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/betcoin_icon.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginLeft": 5,
+            "marginTop": 30,
+            "width": 40,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Editer le profil
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Proposer un pari
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Paris en cours
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Historique des paris
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Regarder une pub pour gagner des pièces
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Contacter Everybet
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FC8D8D",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Se déconnecter
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`ProfileComponent rendering Should render correctly with a custom user avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      },
+      Object {
+        "backgroundColor": "#F4F4FE",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "method": "GET",
+          "uri": "avatar",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderRadius": 65,
+          "height": 125,
+          "width": 125,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "fontFamily": "System",
+          "fontSize": 32,
+          "fontWeight": "600",
+          "textAlign": "center",
+          "textAlignVertical": "center",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginBottom": 10,
+          "marginLeft": 45,
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "fontFamily": "System",
+              "fontSize": 20,
+              "fontWeight": "600",
+              "marginTop": 25,
+              "textAlign": "center",
+              "textAlignVertical": "center",
+            }
+          }
+        >
+          BetCoins
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "height": 20,
+              "justifyContent": "flex-start",
+              "width": 90,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontFamily": "System",
+                "fontSize": 10,
+                "marginLeft": "auto",
+                "marginRight": 5,
+                "textAlign": "right",
+              }
+            }
+          />
+        </View>
+      </View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/betcoin_icon.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginLeft": 5,
+            "marginTop": 30,
+            "width": 40,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Editer le profil
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Proposer un pari
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Paris en cours
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Historique des paris
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Regarder une pub pour gagner des pièces
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Contacter Everybet
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#FC8D8D",
+          "borderRadius": 10,
+          "height": 45,
+          "justifyContent": "center",
+          "marginTop": 20,
+          "opacity": 1,
+          "shadowColor": "#000000",
+          "shadowOffset": Object {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.33,
+          "shadowRadius": 7.5,
+          "width": 215,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "textAlign": "center",
+          }
+        }
+      >
+        Se déconnecter
+      </Text>
+    </View>
+  </View>
+</View>
+`;

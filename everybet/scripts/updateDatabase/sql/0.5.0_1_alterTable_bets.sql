@@ -1,0 +1,1 @@
+ALTER TABLE `bets` ADD COLUMN IF NOT EXISTS `correctAnswerId` int NULL;

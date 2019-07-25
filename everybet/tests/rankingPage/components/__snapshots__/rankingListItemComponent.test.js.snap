@@ -1,0 +1,1465 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RankingListItemComponent rendering Should render correctly any place starting the fourth 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF7F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    4
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly any place starting the fourth with a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF7F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    4
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly any place starting the fourth with orange border for corresponding id 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF7F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    4
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly any place starting the fourth with orange border for corresponding id and a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF7F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    4
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the first place 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#D4AF377F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    1
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the first place with a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#D4AF377F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    1
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the first place with orange border for corresponding id 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#D4AF377F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    1
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the first place with orange border for corresponding id and a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#D4AF377F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    1
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the second place 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#C4CACE7F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    2
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the second place with a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#C4CACE7F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    2
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the second place with orange border for corresponding id 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#C4CACE7F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    2
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the second place with orange border for corresponding id and a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#C4CACE7F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    2
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the third place 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#CD7F327F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    3
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the third place with a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#CD7F327F",
+      },
+      "",
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    3
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the third place with orange border for corresponding id 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#CD7F327F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    3
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/user_placeholder.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RankingListItemComponent rendering Should render correctly the third place with orange border for corresponding id and a custom avatar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 5,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+        "marginHorizontal": 35,
+        "marginTop": 15,
+      },
+      Object {
+        "backgroundColor": "#CD7F327F",
+      },
+      Object {
+        "borderColor": "#F8BC4C",
+        "borderStyle": "solid",
+        "borderWidth": 5,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginHorizontal": 10,
+      }
+    }
+  >
+    3
+  </Text>
+  <Image
+    source={
+      Object {
+        "method": "GET",
+        "uri": "avatar",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 20,
+        "height": 40,
+        "marginHorizontal": 10,
+        "marginVertical": 10,
+        "width": 40,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "marginLeft": 10,
+        "marginRight": "auto",
+      }
+    }
+  >
+    login
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "System",
+        "fontSize": 15,
+        "marginLeft": "auto",
+      }
+    }
+  >
+    69
+  </Text>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/images/betcoin_icon.png",
+      }
+    }
+    style={
+      Object {
+        "height": 30,
+        "marginLeft": 10,
+        "marginRight": 30,
+        "width": 30,
+      }
+    }
+  />
+</View>
+`;

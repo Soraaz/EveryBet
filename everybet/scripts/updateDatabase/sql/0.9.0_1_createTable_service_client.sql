@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS service_client (
+id int PRIMARY KEY NOT NULL AUTO_INCREMENT,
+userId int NOT NULL DEFAULT 0,
+betId int NOT NULL DEFAULT 0,
+message varchar(255)
+);

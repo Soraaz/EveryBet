@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "EveryBet",
+    "slug": "everybet",
+    "description": "Bet on everything with EveryBet",
+    "privacy": "unlisted",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.3.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F4FE"
+    },
+    "primaryColor": "#37597F",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.everybet.everybet",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 4
+    }
+  }
+}

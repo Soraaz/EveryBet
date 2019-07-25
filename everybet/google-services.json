@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298297225555",
+    "firebase_url": "https://everybet-f5d7a.firebaseio.com",
+    "project_id": "everybet-f5d7a",
+    "storage_bucket": "everybet-f5d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298297225555:android:a6d919f301d7ab63",
+        "android_client_info": {
+          "package_name": "com.everybet.everybet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298297225555-eiuod7ukjeoj2hmu0bue8dpq48e0k70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVe1dS1SA1YwAmb-d9PG4eewslR-58XgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298297225555-eiuod7ukjeoj2hmu0bue8dpq48e0k70h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

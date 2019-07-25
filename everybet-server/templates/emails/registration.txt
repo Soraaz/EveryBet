@@ -1,0 +1,10 @@
+You're ready to bet!
+
+Hey {name},
+
+We've finished setting up your EveryBet account. You can now bet and have fun!
+
+- EveryBet Team
+
+Made with <3 in Brussels
+© 2019 EveryBet

@@ -1,0 +1,2 @@
+ALTER TABLE `users`
+ADD COLUMN IF NOT EXISTS `expoPushToken` varchar(255) NOT NULL;

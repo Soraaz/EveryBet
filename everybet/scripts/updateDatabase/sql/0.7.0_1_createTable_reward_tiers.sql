@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS reward_tiers (
+tier int PRIMARY KEY NOT NULL AUTO_INCREMENT,
+rewardValue int NOT NULL
+);

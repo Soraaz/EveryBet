@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button rendering Should render the normal button 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "height": 45,
+      "justifyContent": "center",
+      "marginTop": 20,
+      "opacity": 1,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 6,
+        "width": 0,
+      },
+      "shadowOpacity": 0.33,
+      "shadowRadius": 7.5,
+      "width": 215,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 15,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;
+
+exports[`Button rendering Should render the send button 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "#C9ECE9",
+      "borderRadius": 10,
+      "height": 45,
+      "justifyContent": "center",
+      "marginTop": 20,
+      "opacity": 1,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 6,
+        "width": 0,
+      },
+      "shadowOpacity": 0.33,
+      "shadowRadius": 7.5,
+      "width": 215,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 15,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;
+
+exports[`Button rendering Should render the small normal button 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "height": 30,
+      "justifyContent": "center",
+      "marginTop": 20,
+      "opacity": 1,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 6,
+        "width": 0,
+      },
+      "shadowOpacity": 0.33,
+      "shadowRadius": 7.5,
+      "width": 171,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 15,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;
+
+exports[`Button rendering Should render the success button 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "#A6E48D",
+      "borderRadius": 10,
+      "height": 45,
+      "justifyContent": "center",
+      "marginTop": 20,
+      "opacity": 1,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 6,
+        "width": 0,
+      },
+      "shadowOpacity": 0.33,
+      "shadowRadius": 7.5,
+      "width": 215,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 15,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;
+
+exports[`Button rendering Should render the warning button 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "#FC8D8D",
+      "borderRadius": 10,
+      "height": 45,
+      "justifyContent": "center",
+      "marginTop": 20,
+      "opacity": 1,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 6,
+        "width": 0,
+      },
+      "shadowOpacity": 0.33,
+      "shadowRadius": 7.5,
+      "width": 215,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 15,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;

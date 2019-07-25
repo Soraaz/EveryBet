@@ -1,0 +1,1 @@
+ALTER TABLE `bets` ADD COLUMN IF NOT EXISTS `coinsRedistributed` tinyint DEFAULT false;

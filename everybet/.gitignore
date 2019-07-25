@@ -1,0 +1,16 @@
+.idea
+node_modules
+.scannerwork
+coverage
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.nyc_output
+generated
+config.json
+scripts/**/config.json
+.DS_Store
+*.apk

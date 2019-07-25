@@ -1,0 +1,284 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditProfilePageComponent rendering Should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 20,
+    }
+  }
+>
+  <View
+    style={Object {}}
+  >
+    <View
+      style={
+        Object {
+          "formGroupStyle": Object {
+            "marginBottom": 10,
+          },
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "justifyContent": "flex-start",
+            "marginBottom": 10,
+            "marginLeft": 30,
+            "marginRight": 30,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 15,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            E-mail
+             : 
+          </Text>
+          <Image
+            source={
+              Object {
+                "testUri": "../../../assets/images/edit-solid.png",
+              }
+            }
+            style={
+              Object {
+                "height": 15,
+                "width": 15,
+              }
+            }
+          />
+          <Text>
+             
+          </Text>
+        </View>
+        <TextInput
+          accessibilityLabel="E-mail"
+          allowFontScaling={true}
+          onChangeText={[Function]}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "normal",
+              "minWidth": 100,
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "formGroupStyle": Object {
+            "marginBottom": 10,
+          },
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "justifyContent": "flex-start",
+            "marginBottom": 10,
+            "marginLeft": 30,
+            "marginRight": 30,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 15,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Mot de passe
+             : 
+          </Text>
+          <Image
+            source={
+              Object {
+                "testUri": "../../../assets/images/edit-solid.png",
+              }
+            }
+            style={
+              Object {
+                "height": 15,
+                "width": 15,
+              }
+            }
+          />
+          <Text>
+             
+          </Text>
+        </View>
+        <TextInput
+          accessibilityLabel="Mot de passe"
+          allowFontScaling={true}
+          onChangeText={[Function]}
+          secureTextEntry={true}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "normal",
+              "minWidth": 100,
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "formGroupStyle": Object {
+            "marginBottom": 10,
+          },
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "justifyContent": "flex-start",
+            "marginBottom": 10,
+            "marginLeft": 30,
+            "marginRight": 30,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 15,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Numéro de téléphone
+             : 
+          </Text>
+          <Image
+            source={
+              Object {
+                "testUri": "../../../assets/images/edit-solid.png",
+              }
+            }
+            style={
+              Object {
+                "height": 15,
+                "width": 15,
+              }
+            }
+          />
+          <Text>
+             
+          </Text>
+        </View>
+        <TextInput
+          accessibilityLabel="Numéro de téléphone"
+          allowFontScaling={true}
+          onChangeText={[Function]}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "normal",
+              "minWidth": 100,
+            }
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "backgroundColor": "#A6E48D",
+        "borderRadius": 10,
+        "height": 45,
+        "justifyContent": "center",
+        "marginTop": 20,
+        "opacity": 1,
+        "shadowColor": "#000000",
+        "shadowOffset": Object {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.33,
+        "shadowRadius": 7.5,
+        "width": 215,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontSize": 15,
+          "textAlign": "center",
+        }
+      }
+    >
+      Modifier
+    </Text>
+  </View>
+</View>
+`;

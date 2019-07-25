@@ -1,0 +1,2 @@
+ALTER TABLE `bets`
+ADD COLUMN IF NOT EXISTS `reported` tinyint(4) DEFAULT 0 NOT NULL;

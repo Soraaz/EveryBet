@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AlertMessage rendering Should render correctly 1`] = `<View />`;
+
+exports[`AlertMessage rendering Should render correctly error 1`] = `<View />`;
+
+exports[`AlertMessage rendering Should render correctly simple alert 1`] = `<View />`;
+
+exports[`AlertMessage rendering Should render correctly success alert 1`] = `<View />`;
+
+exports[`AlertMessage rendering Should render correctly success two buttons alert 1`] = `<View />`;
+
+exports[`AlertMessage rendering Should render correctly success two buttons alert 2`] = `<View />`;

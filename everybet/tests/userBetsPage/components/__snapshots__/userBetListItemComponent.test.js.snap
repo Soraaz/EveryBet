@@ -1,0 +1,971 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserBetListItemComponent rendering Should not render a bet if the filter doesn't exist 1`] = `null`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet in progress with the description closed and its category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet in progress with the description closed and no category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet in progress with the description opened and its category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFFBF",
+        "borderBottomLeftRadius": 5,
+        "borderBottomRightRadius": 5,
+        "flex": 1,
+        "justifyContent": "flex-start",
+        "marginHorizontal": 40,
+        "paddingBottom": 20,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      TestBetDesc
+    </Text>
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      Votre réponse est : undefined
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet in progress with the description opened and no category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFFBF",
+        "borderBottomLeftRadius": 5,
+        "borderBottomRightRadius": 5,
+        "flex": 1,
+        "justifyContent": "flex-start",
+        "marginHorizontal": 40,
+        "paddingBottom": 20,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      TestBetDesc
+    </Text>
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      Votre réponse est : undefined
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet which has ended with the description closed and its category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet which has ended with the description closed and no category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet which has ended with the description opened and its category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering android Should render a bet which has ended with the description opened and no category icon on android 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ffbcbc",
+          "borderColor": "red",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "margin": 10,
+          "width": 300,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#333333",
+          "margin": 20,
+        }
+      }
+    >
+      TouchableNativeFeedback is not supported on this platform!
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet in progress with the description closed and its category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "[object Object]images/categories/sport.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginHorizontal": 10,
+            "marginVertical": 10,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_closed.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet in progress with the description closed and no category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_closed.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet in progress with the description opened and its category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "[object Object]images/categories/sport.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginHorizontal": 10,
+            "marginVertical": 10,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_opened.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFFBF",
+        "borderBottomLeftRadius": 5,
+        "borderBottomRightRadius": 5,
+        "flex": 1,
+        "justifyContent": "flex-start",
+        "marginHorizontal": 40,
+        "paddingBottom": 20,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      TestBetDesc
+    </Text>
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      Votre réponse est : undefined
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet in progress with the description opened and no category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_opened.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#FFFFFFBF",
+        "borderBottomLeftRadius": 5,
+        "borderBottomRightRadius": 5,
+        "flex": 1,
+        "justifyContent": "flex-start",
+        "marginHorizontal": 40,
+        "paddingBottom": 20,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      TestBetDesc
+    </Text>
+    <Text
+      style={
+        Object {
+          "flex": 1,
+          "fontFamily": "System",
+          "fontSize": 15,
+          "marginHorizontal": 20,
+        }
+      }
+    >
+      Votre réponse est : undefined
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet which has ended with the description closed and its category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "[object Object]images/categories/sport.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginHorizontal": 10,
+            "marginVertical": 10,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_closed.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet which has ended with the description closed and no category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_closed.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet which has ended with the description opened and its category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "[object Object]images/categories/sport.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "marginHorizontal": 10,
+            "marginVertical": 10,
+            "width": 40,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_opened.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`UserBetListItemComponent rendering ios Should render a bet which has ended with the description opened and no category icon on ios 1`] = `
+<View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FFFFFF7F",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+          "marginHorizontal": 35,
+          "marginTop": 25,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "flex": 1,
+            "fontFamily": "System",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        TestBet
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/images/bet_opened.png",
+          }
+        }
+        style={
+          Object {
+            "height": 10,
+            "marginHorizontal": 10,
+            "width": 17,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
