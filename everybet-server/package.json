@@ -32,7 +32,7 @@
     "mysql2": "^1.6.5",
     "mysql2-promise": "^0.1.4",
     "node-ioc": "^2.1.0",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.10",
     "rimraf": "^2.6.3",
     "typescript-ioc": "^1.2.4"
